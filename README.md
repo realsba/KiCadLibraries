@@ -1,9 +1,10 @@
 # KiCadLibraries
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/realsba/KiCadLibraries)
-![GitHub](https://img.shields.io/github/license/realsba/))
+![GitHub](https://img.shields.io/github/license/realsba/KiCadLibraries)
 ![GitHub issues](https://img.shields.io/github/issues/realsba/KiCadLibraries)
 
+## Description
 This repository contains symbol and footprint libraries for use in KiCad. It is intended for IoT and electronics projects.
 
 ![](media/symbols.png)
@@ -24,8 +25,9 @@ This repository contains symbol and footprint libraries for use in KiCad. It is 
 - Use KiCad's built-in functions to work with the libraries.
 
 ## Project Structure
-- 
-- 
+- `symbols.kicad_sym`: File containing all the symbols for use in schematics.
+- `footprints/`: Directory with footprints for use in PCBs.
+- `media/`: Images demonstrating the symbols and footprints.
 
 ## Technologies Used
 - **KiCad**: Software for creating electronic schematics and PCBs.
